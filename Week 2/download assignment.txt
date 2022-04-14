@@ -1,0 +1,1 @@
+aws s3 cp --recursive s3://dlai-practical-data-science/labs/c1w2-859512/ ./
